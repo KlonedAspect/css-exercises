@@ -1,0 +1,13 @@
+eleOne {
+  background-color: black;
+  color: white;
+}
+
+eleTwo {
+  background-color: yellow;
+}
+
+eleBoth {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
